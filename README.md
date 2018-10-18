@@ -1,4 +1,4 @@
-# [Google Minus](https://declanmorrison.github.io/Band-Info-Aggregator/)
+# [Google Minus](https://spacetab.github.io/google-minus/)
 ###### In case you were wondering, it's called Google Minus, becuase it's exactly like Google, except it sucks.
 
 ## About this project:
